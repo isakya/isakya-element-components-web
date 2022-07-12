@@ -1,0 +1,1 @@
+import{d as s,a as r,o as c,h as l,u as n}from"./index-99e05a2b.js";const p=s({__name:"index",setup(m){let o=e=>{console.log("startTime",e)},t=e=>{console.log("endTime",e)};return(e,_)=>{const a=r("choose-time");return c(),l(a,{onStartChange:n(o),onEndChange:n(t)},null,8,["onStartChange","onEndChange"])}}});export{p as default};

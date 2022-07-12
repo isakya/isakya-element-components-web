@@ -1,0 +1,1 @@
+import{d as s,a as c,o as r,h as l,u as n}from"./index-99e05a2b.js";const g=s({__name:"index",setup(h){let o=e=>{console.log(e)},a=e=>{console.log(e)};return(e,_)=>{const t=c("chooseDate");return r(),l(t,{onStartChange:n(o),onEndChange:n(a)},null,8,["onStartChange","onEndChange"])}}});export{g as default};
